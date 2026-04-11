@@ -1,3 +1,7 @@
 tensorflow
 keras 
 nltk
+pandas
+numpy 
+scikit-learn
+matplotlib
