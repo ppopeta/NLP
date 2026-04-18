@@ -8,11 +8,11 @@ Para ejecutarlo, en la Terminal del proyecto:
 ---
 
 1. Enlace de los datos
-IMDB : [Link al dataset] (https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
-AI vs Human Text dataset: [Link al dataset] (https://www.kaggle.com/datasets/ranaghulamnabi/ai-vs-human-text?resource=download)
+    - IMDB: [Link al dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
+    - AI vs Human Text dataset: [Link al dataset](https://www.kaggle.com/datasets/ranaghulamnabi/ai-vs-human-text?resource=download)
 
 2. Enlace con el código y resultados de la actividad
-Enlace [Github] (https://github.com/ppopeta/NLP)
+    - [GitHub](https://github.com/ppopeta/NLP)
 
 ---
 
